@@ -1,0 +1,3 @@
+tendance: tendencia
+pote: camarada
+rhume: resfrío

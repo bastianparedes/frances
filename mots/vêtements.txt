@@ -1,0 +1,6 @@
+gilet: chaleco
+veste: chaqueta
+pantalon: pantalon
+chemise: camisa
+chaussure: zapato
+chepeau: sombrero

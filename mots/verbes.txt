@@ -1,0 +1,2 @@
+habiller: vestir
+emmener: llevar

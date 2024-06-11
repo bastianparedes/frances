@@ -1,0 +1,4 @@
+moche: feo
+jolie: bonito
+fou, fous, folle, folles: loco, locos, loca, locas
+démodé: anticuado
