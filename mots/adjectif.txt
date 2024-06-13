@@ -2,3 +2,9 @@ moche: feo
 jolie: bonito
 fou, fous, folle, folles: loco, locos, loca, locas
 démodé: anticuado
+juste: justo/a
+prêt: listo
+Vendeur: vendedor
+Vendeuse: vendedora
+chaud: caliente
+doué: dotado (talentoso)

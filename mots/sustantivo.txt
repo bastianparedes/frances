@@ -1,3 +1,7 @@
 tendance: tendencia
 pote: camarada
 rhume: resfrío
+boîte: caja
+taille (f): talla, tamaño
+citron: limón
+mouchoir: pañuelo

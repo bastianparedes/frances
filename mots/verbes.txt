@@ -1,2 +1,4 @@
 habiller: vestir
 emmener: llevar
+metre: meter - poner
+mesurer: medir
