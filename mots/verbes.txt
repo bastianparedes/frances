@@ -3,3 +3,13 @@ emmener: llevar
 metre: meter - poner
 mesurer: medir
 partager: compartir
+déranger: molestar
+sauter: saltar
+parier: apostar
+faire la lessive: lavar la ropa
+arroser: regar
+deviner: adivinar
+apporter: traer
+monter: subir (tiene muchos usos igual que el subir del español)
+tromper: equivocar
+payer: pagar

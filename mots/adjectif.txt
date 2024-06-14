@@ -8,3 +8,5 @@ Vendeur: vendedor
 Vendeuse: vendedora
 chaud: caliente
 doué: dotado (talentoso)
+dégoûtant(e): desagradable
+sûr(e): seguro(a) (de tener confianza en sí mismo)

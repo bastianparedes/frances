@@ -1,3 +1,6 @@
 pied: pie
 jambe: pierna
 hanche: cadera
+les cheveux: el pelo
+oreille: oreja
+sourire: sonrias
