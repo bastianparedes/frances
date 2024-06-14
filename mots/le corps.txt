@@ -1,2 +1,0 @@
-pied: pie
-jambe: pierna

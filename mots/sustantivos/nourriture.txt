@@ -1,0 +1,3 @@
+oeuf: huevo
+citron: limón
+gâteau - gâteaux: torta - tortas
