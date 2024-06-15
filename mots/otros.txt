@@ -1,1 +1,2 @@
 surtout: sobretodo
+sinon: sino

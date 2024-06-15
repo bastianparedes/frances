@@ -1,1 +1,2 @@
 souris: ratón
+poulpe: pulpo

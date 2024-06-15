@@ -13,3 +13,7 @@ apporter: traer
 monter: subir (tiene muchos usos igual que el subir del español)
 tromper: equivocar
 payer: pagar
+souhaiter: desear
+empoisonner: envenenar
+interdire: prohibir
+démissionner: renunciar

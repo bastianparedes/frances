@@ -15,3 +15,15 @@ odeur: olor
 rendez-vous: cita (cualquier tipo de cita. Se refiere a una reunión de dos o más personas)
 piège: trampa
 blague (f): broma, chiste
+âge: edad.
+moto: moto
+balai (m): escoba
+fumée (m): humo
+boulot: trabajo
+emploi: empleo
+colis: paquete
+patron: jefe
+boss: jefe (informal)
+goût: sabor
+économie: ahorro
+escalier (m): escalera

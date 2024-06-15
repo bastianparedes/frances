@@ -1,1 +1,2 @@
 tellement: tan
+presque: casi
