@@ -17,3 +17,7 @@ souhaiter: desear
 empoisonner: envenenar
 interdire: prohibir
 démissionner: renunciar
+tuer: matar
+risquer: correr riesgo
+exploser: explotar
+sortir: salir - sacar

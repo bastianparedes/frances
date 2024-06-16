@@ -27,3 +27,7 @@ boss: jefe (informal)
 goût: sabor
 économie: ahorro
 escalier (m): escalera
+côté: lado
+arme (f): arma
+ferme: granja
+laine: lana
