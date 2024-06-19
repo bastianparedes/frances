@@ -1,0 +1,3 @@
+pull: suéter
+pantalon: pantalón
+chemise: camisa
