@@ -31,3 +31,9 @@ côté: lado
 arme (f): arma
 ferme: granja
 laine: lana
+malade: paciente (de médico)
+reflet: reflejo (imagen)
+réflexe: reflejo (acción involuntaria)
+température: temparatura
+piqûre: inyección - picadura
+aéroport: aeropuerto

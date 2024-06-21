@@ -1,3 +1,4 @@
 oeuf: huevo
 citron: limón
 gâteau - gâteaux: torta - tortas
+biscuit (m): galleta

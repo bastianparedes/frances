@@ -21,3 +21,18 @@ tuer: matar
 risquer: correr riesgo
 exploser: explotar
 sortir: salir - sacar
+coucher: acostar
+retirer: retirar - quitar
+asseoir: sentar
+croiser: cruzar
+baisser: agachar (informal)
+partager: compartir
+prêter: prestar
+emprunter: pedir prestado
+rafraîchir: refrescar
+traiter
+répéter: repetir
+remettre: volver a poner
+consoler: consolar
+choisir: elegir
+amuser: entretener - divertir

@@ -14,3 +14,6 @@ amoureux - amoureuse: enamorado - enamorada
 mignon/ne/s/nnes: lindo/a/s/as
 cher: caro
 cru - crue: crudo - cruda
+fort: fuerte
+jaloux - jalouse: celoso - celosa
+jumeau - jumelle: gemelo - gemela

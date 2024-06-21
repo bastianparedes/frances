@@ -1,3 +1,4 @@
 pull: suéter
 pantalon: pantalón
 chemise: camisa
+bluse (f): blusa - bata
