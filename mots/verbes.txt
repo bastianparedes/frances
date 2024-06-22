@@ -42,3 +42,6 @@ déguiser: disfrazar
 resserrer: apretar
 cacher: esconder
 claquer: cerrar la puerta con un portazo
+fumer: fumar
+éteindre: apagar
+allumer: encender

@@ -21,3 +21,4 @@ prochain: próximo
 suivant: siguiente
 pire: peor
 dernièr: último
+capote (f): condón
