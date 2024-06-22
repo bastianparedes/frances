@@ -20,3 +20,4 @@ jumeau - jumelle: gemelo - gemela
 prochain: próximo
 suivant: siguiente
 pire: peor
+dernièr: último

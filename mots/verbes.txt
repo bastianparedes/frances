@@ -36,3 +36,9 @@ remettre: volver a poner
 consoler: consolar
 choisir: elegir
 amuser: entretener - divertir
+ajouter: agregar - añadir
+tomber: caer
+déguiser: disfrazar
+resserrer: apretar
+cacher: esconder
+claquer: cerrar la puerta con un portazo

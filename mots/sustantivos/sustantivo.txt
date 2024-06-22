@@ -37,3 +37,8 @@ réflexe: reflejo (acción involuntaria)
 température: temparatura
 piqûre: inyección - picadura
 aéroport: aeropuerto
+étagère (f): estante
+cauchemar (m): pesadilla
+roi: rey
+reine: reina
+vis (f): tornillo
