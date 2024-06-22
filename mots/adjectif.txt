@@ -17,3 +17,6 @@ cru - crue: crudo - cruda
 fort: fuerte
 jaloux - jalouse: celoso - celosa
 jumeau - jumelle: gemelo - gemela
+prochain: próximo
+suivant: siguiente
+pire: peor
