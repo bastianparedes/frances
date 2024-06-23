@@ -1,12 +1,10 @@
 habiller: vestir
 emmener: llevar
-metre: meter - poner
 mesurer: medir
 partager: compartir
 déranger: molestar
 sauter: saltar
 parier: apostar
-faire la lessive: lavar la ropa
 arroser: regar
 deviner: adivinar
 apporter: traer
@@ -15,26 +13,20 @@ tromper: equivocar
 payer: pagar
 souhaiter: desear
 empoisonner: envenenar
-interdire: prohibir
 démissionner: renunciar
 tuer: matar
 risquer: correr riesgo
 exploser: explotar
-sortir: salir - sacar
 coucher: acostar
 retirer: retirar - quitar
-asseoir: sentar
 croiser: cruzar
 baisser: agachar (informal)
 partager: compartir
 prêter: prestar
 emprunter: pedir prestado
-rafraîchir: refrescar
 traiter
 répéter: repetir
-remettre: volver a poner
 consoler: consolar
-choisir: elegir
 amuser: entretener - divertir
 ajouter: agregar - añadir
 tomber: caer
@@ -43,5 +35,4 @@ resserrer: apretar
 cacher: esconder
 claquer: cerrar la puerta con un portazo
 fumer: fumar
-éteindre: apagar
 allumer: encender

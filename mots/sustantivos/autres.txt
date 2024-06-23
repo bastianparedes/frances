@@ -42,3 +42,18 @@ cauchemar (m): pesadilla
 roi: rey
 reine: reina
 vis (f): tornillo
+chaîne (f): canal de televisión
+poche (f): bolsillo
+carte (f): mapa
+calèche (f): carruaje
+royaume: reino
+feuille: hoja (tanto de árbol como de papel)
+appareil: aparato
+pelle: pala
+impolitesse: descortesía
+politesse: cortesía
+marais: pantano
+forêt (f): bosque
+toit: techo
+île: isla
+grotte: cueva

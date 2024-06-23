@@ -1,2 +1,5 @@
 tellement: tan
 presque: casi
+dehors: afuera
+dedans: adentro
+dernièrement: últimamente

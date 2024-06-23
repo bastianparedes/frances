@@ -5,4 +5,4 @@ les cheveux: el pelo
 oreille: oreja
 sourire: sonrias
 dos (m): espalda
-
+visage (m): cara - rostro

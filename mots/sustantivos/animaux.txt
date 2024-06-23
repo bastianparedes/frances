@@ -2,3 +2,4 @@ souris: ratón
 poulpe: pulpo
 hérisson: erizo
 chèvre: cabra
+poulet: pollo
