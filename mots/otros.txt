@@ -1,3 +1,4 @@
 surtout: sobretodo
 sinon: sino
 plutôt: más bien
+autour: alrededor

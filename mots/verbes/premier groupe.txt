@@ -36,3 +36,4 @@ cacher: esconder
 claquer: cerrar la puerta con un portazo
 fumer: fumar
 allumer: encender
+ressembler: parecerse (ejemplo: quelque choe qui ressemble)

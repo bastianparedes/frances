@@ -1,0 +1,11 @@
+trousse: estuche
+feuille: hoja
+classeur: carpeta
+règle: regla
+gomme: goma
+crayon; lápiz
+bolígrafo: lapiz tinta / bolígrafo
+cahier (r muda): cuaderno
+ardoise: pizarra
+ordinateur: notebook
+carte (f): mapa
