@@ -1,1 +1,16 @@
 combien: cuánto/a/as/os
+comment: cómo
+qui: quién
+quoi: qué
+où: donde
+quand: cuándo
+pourquoi: por qué
+y a-t-il...: hay...?
+
+Los siguientes 4 se pronuncian igual
+quel (m): cuál
+quelle (f): cuál
+quels (m): cuáles
+quelles (f): cuáles
+
+qu'est-ce que: qué
