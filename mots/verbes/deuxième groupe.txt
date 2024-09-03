@@ -1,2 +1,3 @@
 choisir: elegir
 rafraîchir: refrescar
+réussir: tener éxito - lograr

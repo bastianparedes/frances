@@ -57,3 +57,4 @@ forêt (f): bosque
 toit: techo
 île: isla
 grotte: cueva
+mer (f): mar

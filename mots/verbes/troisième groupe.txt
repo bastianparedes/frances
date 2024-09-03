@@ -1,10 +1,12 @@
 sortir: salir - sacar
 asseoir: sentar
 avoir l'air: tener aire de (parecer)
+percevoir: percibir
 
 remettre: volver a poner
 metre: meter - poner
 faire la lessive: lavar la ropa
 interdire: prohibir
 éteindre: apagar
+rendre: devolver
 
