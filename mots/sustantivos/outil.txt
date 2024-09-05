@@ -1,0 +1,3 @@
+palle: pala
+perceuse (f): taladro
+houe: azada

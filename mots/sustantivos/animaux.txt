@@ -3,3 +3,8 @@ poulpe: pulpo
 hérisson: erizo
 chèvre: cabra
 poulet: pollo
+vache: vaca
+cheval - chevaux: caballo - caballos
+jument - juments: yegua - yeguas
+
+élevage: ganado

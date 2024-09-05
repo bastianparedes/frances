@@ -22,3 +22,4 @@ suivant: siguiente
 pire: peor
 dernièr: último
 capote (f): condón
+haut - hauts - haute - hautes: alto - altos - alta - altas

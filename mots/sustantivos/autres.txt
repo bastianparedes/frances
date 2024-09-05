@@ -58,3 +58,4 @@ toit: techo
 île: isla
 grotte: cueva
 mer (f): mar
+sable (m): arena

@@ -9,4 +9,5 @@ faire la lessive: lavar la ropa
 interdire: prohibir
 éteindre: apagar
 rendre: devolver
+naître: nacer
 
