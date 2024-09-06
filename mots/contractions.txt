@@ -1,0 +1,8 @@
+"à" + "le" = "au"
+"à" + "les" = "aux"
+"de" + "le" = "du"
+"de" + "les" = "des"
+"ce" + "est" = "c'est"
+"que" + "il" = "qu'il"
+"si" + "il" = "s'il"
+"je" + "ai" = "j'ai"

@@ -10,4 +10,5 @@ interdire: prohibir
 éteindre: apagar
 rendre: devolver
 naître: nacer
+paraître: parecer
 
