@@ -59,3 +59,8 @@ toit: techo
 grotte: cueva
 mer (f): mar
 sable (m): arena
+endroit: lugar
+enquête: investigación
+neige: nieve
+lacet: cordón
+pilule: píldora

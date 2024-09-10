@@ -3,7 +3,9 @@ asseoir: sentar
 avoir l'air: tener aire de (parecer)
 percevoir: percibir
 
+mettre: poner
 remettre: volver a poner
+soumettre: entregar (algo a que se revise) - someter
 metre: meter - poner
 faire la lessive: lavar la ropa
 interdire: prohibir
@@ -11,4 +13,5 @@ interdire: prohibir
 rendre: devolver
 naître: nacer
 paraître: parecer
-
+répondre: responder
+connaître: conocer

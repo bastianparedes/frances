@@ -1,4 +1,4 @@
 pas: normal
 plus: ya no más - no más
 personne: nadie
-
+que: unicamente - solo - no ... más que

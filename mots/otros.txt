@@ -2,3 +2,15 @@ surtout: sobretodo
 sinon: sino
 plutôt: más bien
 autour: alrededor
+
+ça / cela / ceci / ce / cet / cette / ces
+
+pronoms démostratifs
+ça: this / that. Cuando está antes de "être" o que se convierte en "ce" o "c'"
+ceci: this
+cela: that
+
+adjetifs démostratifs
+ce / cet: este
+cette: esta
+ces: estos / estas

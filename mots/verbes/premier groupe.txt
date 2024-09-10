@@ -38,6 +38,15 @@ fumer: fumar
 allumer: encender
 ressembler: parecerse (ejemplo: quelque choe qui ressemble)
 déménager: mudarse - reubicarse
+traverser: atravesar
+remporter: ganar (obtener algo como "earn" en inglés)
+refléter: reflexionar
+veiller: vigilar (en el sentido de cuidar)
+attirer: atraer
+signifier: significar
+enquêter: investigar
+avouer: confesar
+soucier: preocuparse
 
 flâner: pasear
 se promener: pasear
