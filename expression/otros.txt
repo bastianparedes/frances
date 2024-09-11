@@ -21,4 +21,22 @@ D'après (de après): de acuerdo a
 il y a X: hace X tiempo
 c'est a peine...: es apenas...
 par dessus: por encima de
+
+être pressé(e): Tener prisa / Estar apurado
+être à l'heure: llegar a la hora / llegar a tiempo
+avoir chaud: tener calor
+avoir très chaud: tener mucho calor
+avoir froid: tener frío
+avoir faim: tener hambre
+avoir soif: tener frío
+avoir peur: tener miedo
+avoir sommeil: tener sueño
+avoir raison: tener razón
+avoir tort: no tener razón
+avoir envie: tener ganas
+avoir besoin de: necesitar
+avoir hâte: no poder esperar que
+avoir l'habiture: estar acostumbrado
+avoir de la chance: tener suerte
+
 se rendre compte: darse cuenta
