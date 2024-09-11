@@ -36,8 +36,8 @@ cacher: esconder
 claquer: cerrar la puerta con un portazo
 fumer: fumar
 allumer: encender
-ressembler: parecerse (ejemplo: quelque choe qui ressemble)
-déménager: mudarse - reubicarse
+se ressembler: parecerse (ejemplo: quelque choe qui ressemble)
+se déménager: mudarse - reubicarse
 traverser: atravesar
 remporter: ganar (obtener algo como "earn" en inglés)
 refléter: reflexionar
@@ -46,7 +46,11 @@ attirer: atraer
 signifier: significar
 enquêter: investigar
 avouer: confesar
-soucier: preocuparse
+se soucier: preocuparse
+amener: traer / llevar
+dépasser: exceder
+briser: romper
+se hâter: apurarse
 
 flâner: pasear
 se promener: pasear

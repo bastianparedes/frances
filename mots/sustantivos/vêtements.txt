@@ -2,3 +2,5 @@ pull: suéter
 pantalon: pantalón
 chemise: camisa
 bluse (f): blusa - bata
+chapeau: sombrero
+moufle (f): guante
