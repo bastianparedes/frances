@@ -40,3 +40,4 @@ avoir l'habiture: estar acostumbrado
 avoir de la chance: tener suerte
 
 se rendre compte: darse cuenta
+pas si vite: no tan rápido

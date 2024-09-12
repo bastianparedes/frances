@@ -51,6 +51,8 @@ amener: traer / llevar
 dépasser: exceder
 briser: romper
 se hâter: apurarse
+raconter: contar (como tell en inglés)
+aspirer: esforzarse
 
 flâner: pasear
 se promener: pasear

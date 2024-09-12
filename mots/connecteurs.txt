@@ -6,6 +6,7 @@ ou: o
 si: si
 quand
 alors: entonces
+plutôt: bastante / en cambio / más bien
 
 pourtant: sin embargo - no obstante
 cependant

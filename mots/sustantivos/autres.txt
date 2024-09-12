@@ -65,4 +65,6 @@ neige: nieve
 lacet: cordón
 pilule: píldora
 bonhomme de neige: hombre de nieve
-pas si vite: no tan rápido
+
+Campagne: Zona rural en general, paisaje campestre.
+Champ: Campo cultivado, terreno agrícola específico.
