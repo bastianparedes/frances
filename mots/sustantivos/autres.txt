@@ -68,3 +68,8 @@ bonhomme de neige: hombre de nieve
 
 Campagne: Zona rural en general, paisaje campestre.
 Champ: Campo cultivado, terreno agrícola específico.
+chef: lider (lider de un grupo)
+patron: lider (superior o propietario de una empresa)
+meneur: lider (en situación informal, como cabecilla)
+cibles: blanco (como objetivo)
+objectif: objetivo

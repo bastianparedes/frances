@@ -9,7 +9,7 @@ arroser: regar
 deviner: adivinar
 apporter: traer
 monter: subir (tiene muchos usos igual que el subir del español)
-tromper: equivocar
+se tromper: equivocarse
 payer: pagar
 souhaiter: desear
 empoisonner: envenenar
@@ -53,6 +53,11 @@ briser: romper
 se hâter: apurarse
 raconter: contar (como tell en inglés)
 aspirer: esforzarse
+attaquer: atacar
+riposter: tomar represalia
+remercier: agradecer
+fermer: cerrar (en sentido genérico)
+verrouiller: cerrar (en sentido de bloquear por ejemplo poner pestillo o candado)
 
 flâner: pasear
 se promener: pasear
