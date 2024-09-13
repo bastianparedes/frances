@@ -7,5 +7,7 @@ vache: vaca
 cheval - chevaux: caballo - caballos
 jument - juments: yegua - yeguas
 écureuil: ardilla
+papillon: mariposa
+ange: ángel
 
 élevage: ganado
