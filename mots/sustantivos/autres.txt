@@ -73,3 +73,11 @@ patron: lider (superior o propietario de una empresa)
 meneur: lider (en situación informal, como cabecilla)
 cibles: blanco (como objetivo)
 objectif: objetivo
+
+avis: opinión
+défi: desafío
+poid: peso
+lien: enlace
+pouvoir: poder (power)
+ombre: sombra
+quais: muelles

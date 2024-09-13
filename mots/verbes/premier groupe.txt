@@ -58,7 +58,18 @@ riposter: tomar represalia
 remercier: agradecer
 fermer: cerrar (en sentido genérico)
 verrouiller: cerrar (en sentido de bloquear por ejemplo poner pestillo o candado)
+kidnapper: secuestrar
+rassurer: tranquilizar
+gâcher: arruinar - estropear
+désirer: desear
+mériter: merecer
+
+chercher: buscar (en general)
+rechercher: buscar (de manera intensiva, como investigación o con detalles)
 
 flâner: pasear
 se promener: pasear
 balader (coloquial): pasear
+
+rapprocher: acercar
+se rapprocher: acercarse

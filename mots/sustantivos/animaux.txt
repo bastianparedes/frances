@@ -6,5 +6,6 @@ poulet: pollo
 vache: vaca
 cheval - chevaux: caballo - caballos
 jument - juments: yegua - yeguas
+écureuil: ardilla
 
 élevage: ganado

@@ -2,8 +2,11 @@ sortir: salir - sacar
 asseoir: sentar
 avoir l'air: tener aire de (parecer)
 percevoir: percibir
+détenir: detener - tener (en el sentido de poseer algo custodiando o reteniendo)
+parcourir: recorrer
+valer: valer
 
-mettre: poner
+mettre: poner - meter
 remettre: volver a poner
 soumettre: entregar (algo a que se revise) - someter
 metre: meter - poner

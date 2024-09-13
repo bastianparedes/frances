@@ -13,7 +13,7 @@ cependant
 néanmoins
 toutefois
 
-puisque
+puisque: ya que - puesto que - dado que
 comme
 en effet
 car
