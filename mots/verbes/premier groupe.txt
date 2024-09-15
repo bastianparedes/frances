@@ -75,3 +75,4 @@ rapprocher: acercar
 se rapprocher: acercarse
 
 lutter: luchar
+apprécier: apreciar - valorar
