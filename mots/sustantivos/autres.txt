@@ -81,3 +81,4 @@ lien: enlace
 pouvoir: poder (power)
 ombre: sombra
 quais: muelles
+doute: duda

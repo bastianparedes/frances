@@ -1,1 +1,2 @@
 faire une promenade: pasear
+faire confiance: confiar (exemple: faites-moi confiance)

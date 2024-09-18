@@ -37,6 +37,7 @@ claquer: cerrar la puerta con un portazo
 fumer: fumar
 allumer: encender
 se ressembler: parecerse (ejemplo: quelque choe qui ressemble)
+sembler: to seem
 se déménager: mudarse - reubicarse
 traverser: atravesar
 remporter: ganar (obtener algo como "earn" en inglés)
@@ -76,3 +77,7 @@ se rapprocher: acercarse
 
 lutter: luchar
 apprécier: apreciar - valorar
+paniquer: asustarse
+douter: dudar
+souiller: ensuciar o manchar (tanto literal como figurado)
+valer: valer

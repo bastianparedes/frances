@@ -4,7 +4,8 @@ avoir l'air: tener aire de (parecer)
 percevoir: percibir
 détenir: detener - tener (en el sentido de poseer algo custodiando o reteniendo)
 parcourir: recorrer
-valer: valer
+apercevoir: notar - darse cuenta de
+suivre: seguir
 
 mettre: poner - meter
 remettre: volver a poner
