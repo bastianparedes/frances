@@ -9,6 +9,7 @@ arroser: regar
 deviner: adivinar
 apporter: traer
 monter: subir (tiene muchos usos igual que el subir del español)
+tromper: engañar
 se tromper: equivocarse
 payer: pagar
 souhaiter: desear
@@ -81,3 +82,4 @@ paniquer: asustarse
 douter: dudar
 souiller: ensuciar o manchar (tanto literal como figurado)
 valer: valer
+prouver: probar (demostrar)
