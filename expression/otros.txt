@@ -47,3 +47,4 @@ poser ... question: hacer ... pregunta(s)
 compagnon - compagne: compañero - compañera
 poue l'houre: por el momento - por ahora
 pour de bon: para siempre
+à propos de: acerca de

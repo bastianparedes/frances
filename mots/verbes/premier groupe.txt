@@ -83,3 +83,4 @@ douter: dudar
 souiller: ensuciar o manchar (tanto literal como figurado)
 valer: valer
 prouver: probar (demostrar)
+blesser: herir
