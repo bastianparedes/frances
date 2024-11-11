@@ -84,3 +84,5 @@ souiller: ensuciar o manchar (tanto literal como figurado)
 valer: valer
 prouver: probar (demostrar)
 blesser: herir
+rater: to miss
+éveiller: despertar (interés, sentimientos o interés)
